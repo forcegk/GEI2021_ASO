@@ -1,7 +1,7 @@
 # GEI2021_ASO
 ## Prácticas
 - [x] Práctica 1
-- [ ] Práctica 2
+- [x] Práctica 2
 - [ ] Práctica 3
 - [ ] Práctica 4
 - [ ] Práctica 5
