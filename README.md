@@ -2,7 +2,7 @@
 ## Prácticas
 - [x] Práctica 1
 - [x] Práctica 2
-- [ ] Práctica 3
+- [x] Práctica 3
 - [ ] Práctica 4
 - [ ] Práctica 5
 - [ ] Práctica 6
