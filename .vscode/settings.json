@@ -1,5 +1,5 @@
 {
     "markdown-pdf.breaks": true,
     "markdown-pdf.displayHeaderFooter": false,
-    "markdown-pdf.highlightStyle": "monokai-sublime.css"
+    "markdown-pdf.highlightStyle": "github.css"
 }
