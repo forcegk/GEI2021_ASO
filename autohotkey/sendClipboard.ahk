@@ -1,3 +1,5 @@
 ; win + v
 #v::
-  SendRaw %clipboard%
+  SendEvent % StrReplace(Clipboard,"`r")
+  
+  DESCARTAME ESTO XIAN!!!
