@@ -74,9 +74,7 @@ SwitchCRLF()
     }
 }
 
-#c::
-SwitchCRLF()
-
+#c::SwitchCRLF()
 #v::AutoTypeClipboard(KeyDelay)
 #!v::AutoTypeClipboard(SlowKeyDelay)
 #+v::AutoTypeClipboard(0)
