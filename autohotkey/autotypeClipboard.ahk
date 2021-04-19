@@ -6,7 +6,8 @@
 ; ESC o PAUSA:     Detiene escritura automatica
 
 ; Substring titulo ventana en la que habilitar pegado. Vacio (:=) lo desactiva
-TargetWindowTitleContains := "VirtualBox"
+; TargetWindowTitleContains := "VirtualBox"
+TargetWindowTitleContains :=
 KeyDelay := 4 ; Retardo entre teclas modo normal
 SlowKeyDelay := 20 ; Retardo entre teclas modo lento
 
