@@ -3,8 +3,8 @@
 - [x] Práctica 1
 - [x] Práctica 2
 - [x] Práctica 3
-- [ ] Práctica 4
-- [ ] Práctica 5
+- [x] Práctica 4
+- [x] Práctica 5
 - [ ] Práctica 6
 - [ ] Práctica 7
 - [ ] Práctica 8
