@@ -5,8 +5,6 @@
 - [x] Práctica 3
 - [x] Práctica 4
 - [x] Práctica 5
-- [ ] Práctica 6
-- [ ] Práctica 7
-- [ ] Práctica 8
-- [ ] Práctica 9
-- [ ] Práctica 10
+- [x] Práctica 6
+- [x] Práctica 7
+- [x] Práctica 8
